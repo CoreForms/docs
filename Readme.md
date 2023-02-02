@@ -20,7 +20,7 @@ CoreForms is available on [NuGet.org](https://www.nuget.org/packages?q=CoreForms
 
 # Discussions
 
-Please use the [Discussions](https://github.com/CoreForms/docs/discussions) to ask questions about working with CoreForms.
+Please use the [Discussions](https://github.com/orgs/CoreForms/discussions) to ask questions about working with CoreForms.
 
 # Issues
 
